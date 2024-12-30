@@ -22,5 +22,4 @@ When you run the app, you will see:
 - Add animations for the dice roll.
 
 ## Demo
-![Demo Video]
 https://github.com/user-attachments/assets/47500a94-0575-4dba-8177-7d49c5772766
