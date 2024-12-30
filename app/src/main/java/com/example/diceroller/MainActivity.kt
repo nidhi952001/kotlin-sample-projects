@@ -68,7 +68,7 @@ fun DiceWithButtonAndImage(modifier: Modifier = Modifier) {
 
 }
 
-@Preview(showBackground = true)
+@Preview(showBackground = true)  //this is the preview
 @Composable
 fun DiceRollerApp() {
     DiceRollerTheme {
