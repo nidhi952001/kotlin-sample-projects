@@ -17,10 +17,10 @@ When you run the app, you will see:
 2. Open the project in Android Studio.
 3. Build and run the project on an emulator or a physical device.
 
-**Future Improvements** 🚀
-Add more dice options (e.g., 8-sided, 10-sided).
-Add animations for the dice roll.
-Save the roll history for users to view past results.
+## Future Improvements 🚀
+- Add more dice options (e.g., 8-sided, 10-sided).
+- Add animations for the dice roll.
 
 ## Demo
-![Demo Video](DiceRoller/dice_roller_demo.mp4)
+![Demo Video]
+https://github.com/user-attachments/assets/47500a94-0575-4dba-8177-7d49c5772766
